@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "domain": "daikin",
-  "name": "Daikin-AC",
+  "name": "Daikin AC",
   "codeowners": ["@fredrike"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/daikin",
